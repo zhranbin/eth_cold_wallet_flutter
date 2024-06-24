@@ -1,0 +1,16 @@
+{
+  "appName": "Ethereum Cold Wallet",
+  "currentWallet": "Current wallet: ",
+  "noAccount": "No account",
+  "createAccount": "Create account",
+  "importAccount": "Import account",
+  "name": "Name",
+  "privateKey": "Private key",
+  "mnemonic": "Mnemonic",
+  "address": "Address",
+  "nameTip": "Account name",
+  "inputName": "Please enter a name",
+  "password": "Password",
+  "passwordTip": "This password will be used to encrypt the private key and store the encrypted data. We will not store your private key and password. Please remember this password!",
+  "inputPassword": "Please enter the password"
+}

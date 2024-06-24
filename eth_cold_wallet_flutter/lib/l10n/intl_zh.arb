@@ -1,0 +1,16 @@
+{
+  "appName": "以太坊冷钱包",
+  "currentWallet": "当前钱包：",
+  "noAccount": "暂无账户",
+  "createAccount": "创建账户",
+  "importAccount": "导入账户",
+  "name": "名称",
+  "privateKey": "私钥",
+  "mnemonic": "助记词",
+  "address": "地址",
+  "nameTip": "账户名称",
+  "inputName": "请输入名称",
+  "password": "密码",
+  "passwordTip": "该密码将用于加密私钥并存储加密后的数据，我们不会存储您的私钥以及密码，请务必记住该密码!",
+  "inputPassword": "请输入密码"
+}
